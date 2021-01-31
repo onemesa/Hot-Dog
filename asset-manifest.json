@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Hot-Dog/static/css/main.f7e3e9fc.chunk.css",
+    "main.js": "/Hot-Dog/static/js/main.ce260df2.chunk.js",
+    "main.js.map": "/Hot-Dog/static/js/main.ce260df2.chunk.js.map",
+    "runtime-main.js": "/Hot-Dog/static/js/runtime-main.831aebfd.js",
+    "runtime-main.js.map": "/Hot-Dog/static/js/runtime-main.831aebfd.js.map",
+    "static/js/2.627ab46c.chunk.js": "/Hot-Dog/static/js/2.627ab46c.chunk.js",
+    "static/js/2.627ab46c.chunk.js.map": "/Hot-Dog/static/js/2.627ab46c.chunk.js.map",
+    "index.html": "/Hot-Dog/index.html",
+    "static/css/main.f7e3e9fc.chunk.css.map": "/Hot-Dog/static/css/main.f7e3e9fc.chunk.css.map",
+    "static/js/2.627ab46c.chunk.js.LICENSE.txt": "/Hot-Dog/static/js/2.627ab46c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.831aebfd.js",
+    "static/js/2.627ab46c.chunk.js",
+    "static/css/main.f7e3e9fc.chunk.css",
+    "static/js/main.ce260df2.chunk.js"
+  ]
+}
